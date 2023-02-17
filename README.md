@@ -5,3 +5,5 @@ where you move ship to left or right and try to shoot at the alien which is cons
 at the top of the screen. Game ends when 7 points has been collected.
 
 Language used was C.
+
+![image](https://user-images.githubusercontent.com/100607632/219556417-e45ffa61-44a4-4cfe-8136-aa93f952c267.png)
